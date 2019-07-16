@@ -25,3 +25,4 @@ def retornaCaminhoComParametro(caminho_entrada):
             print("Digite algum caminho válido!")
 
     return caminho_entrada
+
